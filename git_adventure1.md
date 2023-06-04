@@ -75,3 +75,4 @@ git branch -d <name branch> - удаление уже слитой ветки, �
 
    `git remote show origin`
 
+ff
