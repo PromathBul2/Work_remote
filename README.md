@@ -17,4 +17,5 @@
 13. Switch to this new branch with `git checkout <branch_name>`
 14. Include information that you need to this branch and save with Ctrl + C. 
 15. Perform `git add` and `git commit`
-16. Pull request online 
+16. Type `git push --set-upstream origin instr` in order for these new edits to appear in the forked repository online. 
+17. Pull request
