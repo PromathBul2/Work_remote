@@ -1,5 +1,4 @@
-[# Work_remote
-Скоро я стану, как Илон Маск...](https://github.com/edblinova/GB_git_intro
+https://github.com/edblinova/GB_git_intro
 
 # Инструкция для работы с Git и удалёнными репозиториями
 
